@@ -1,0 +1,37 @@
+{
+  "id": "1901590",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15489869",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "15489870",
+      "name": "内容管理",
+      "font_class": "neirongguanli",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15489871",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "15489872",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
